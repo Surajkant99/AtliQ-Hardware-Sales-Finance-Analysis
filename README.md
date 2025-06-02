@@ -16,7 +16,7 @@ AtliQ Hardware, a global leader in computer hardware and peripherals, is transit
   - Profit & Loss by Fiscal Year: Analysis categorized by fiscal years.
   - Profit & Loss by Fiscal Months: Evaluation categorized by fiscal months.
   - Profit & Loss by Markets: Assessment categorized by markets.
-## 📌 Key Terms
+## 🔑 Key Terms
 - ETL Methodology (Extract, Transform, Load)
 - Fiscal Months and Quarters: Deriving fiscal periods.
 - Data Integration: Incorporating supplementary data into existing models.
