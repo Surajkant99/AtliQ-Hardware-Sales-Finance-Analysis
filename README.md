@@ -11,6 +11,7 @@ AtliQ Hardware, a global leader in computer hardware and peripherals, is transit
   - Top 10 Products Performance: Analysis of the top 10 products based on sales.
   - Top & Bottom 5 Products: Analysis of the top and bottom 5 products by quantity sold.
   - Top & Bottom 5 Countries: Analysis of the top and bottom 5 countries by quantity sold.
+  - New Products: Shows the list of new products launched in the current year.
 - Finance Analysis Reports
   - Profit & Loss by Fiscal Year: Analysis categorized by fiscal years.
   - Profit & Loss by Fiscal Months: Evaluation categorized by fiscal months.
