@@ -30,5 +30,6 @@ AtliQ Hardware, a global leader in computer hardware and peripherals, is transit
 ## 🔗 Important links
 - [Linkedin Post]()
 ## 📞 Contact
+- [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
 - [Linkedin](https://www.linkedin.com/in/surajkant9/)
 - [Email](mailto:surajkant264@gmail.com)
