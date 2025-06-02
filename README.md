@@ -1,5 +1,5 @@
 # 🏢 AtliQ-Hardware-Sales-Finance-Analysis
-This project contains various reports asked by management as requests for AtliQ Hardware company's sales &amp; financial analysis..
+This project contains various reports asked by management as requests for AtliQ Hardware company's sales &amp; financial analysis.
 
 ## 🧾 Project Overview
 AtliQ Hardware, a global leader in computer hardware and peripherals, is transitioning towards data-driven operations. This project merges sales and finance analytics to derive strategic insights, refine sales approaches, identify growth opportunities, and enhance financial decision-making. The objective of this project is to optimize sales performance and improve net gross margins for AtliQ Hardware by creating a comprehensive Sales and Financial report covering the years 2019, 2020, and 2021.
