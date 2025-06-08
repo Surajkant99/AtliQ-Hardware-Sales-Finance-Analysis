@@ -28,7 +28,7 @@ AtliQ Hardware, a global leader in computer hardware and peripherals, is transit
 - DAX (Data Analysis Expressions): Creating calculated columns.
 
 ## 🔗 Important links
-- [Linkedin Post]()
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7337391796370423808/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
